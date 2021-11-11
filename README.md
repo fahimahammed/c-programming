@@ -1,5 +1,5 @@
-# c-programming
-c programming(basic)
+# C Programming....
+
 
 1. structure in c 
 2. dynamic memory allocation (malloc(), calloc(), free(), realloc() )
