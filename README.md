@@ -1,6 +1,7 @@
-# C Programming....
+# C Programming...
+(Basic)
 
 
-1. structure in c 
-2. dynamic memory allocation (malloc(), calloc(), free(), realloc() )
+1. Structure in c 
+2. Dynamic memory allocation (malloc(), calloc(), free(), realloc() )
 3. String problem
